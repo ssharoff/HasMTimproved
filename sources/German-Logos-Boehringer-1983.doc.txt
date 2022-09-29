@@ -1,0 +1,127 @@
+German to English
+Operational system (Logos) at Boehringer Ingelheim, in 1983
+Four examples (only no. 4 with current system outputs)
+Source
+Robert Ordish: ‘Personal impressions of a machine translation system’ The Incorporated Linguist 23 (3), Summer 1984, pp.136-145.]
+===============
+Example 1
+A. Original German text
+Anläßlich des 'Medical Directors‘ Meeting' Iberoamerika in Torremolinos habe ich über die Organisation der medizinischen Präparateentwicklunq im Firmenverband gesprochen.
+Ich hatte damals gesagt, daß es notwendig war, ein Modell der medizinischen Präparateentwicklung für Forschungssubstanzen - das Modell Barcelona - zu schaffen, das den speziellen Unternehmenszielen Rechung trug und mit den vorgegebenen Organisationsstrukturen des Unternahmes übereinstimmte. Lassen Sie mich kurz das Wesentlichste rekapitulieren:
+Klinische Prüfungen sind ein wesentlicher Teil der Präparatebeschaffunq und deshalb eine operative Aufgabe.
+Sie werden in Phasen eingeteilt; firmernintern bis zur Einführung eines Produktes in Klinik I/II und III.
+Modell Barcelona sieht für die klinischen Prüfungen in den Operativen Einheiten vor:
+a)   Bearbeitung nach Projekten unter medizinischer Projektleitung
+b)   Prüfungskontinuität über die Phaseneinteilung hinweg
+c)   Synchronisierung und Internationalisierung der Prüfungsabläufe
+d)   Agieren nach einem Schwerpunkt- und Verbundsystem, 'Medical-Area-System' genannt.
+Der Zentrale obliegt die medizinische Koordination der klinischen Prüfungen und jener für die Phasen I und II der ZA Medizinische Forschung, für die Phase III der ZA Medizinische Dienste.
+B. Unedited output from Logos, 1983
+On the occasion of the MEDICAL DIRECTORS MEETING Latin-America in TORREMOLINOS, I have spoken about the organization of the medical product-development in the FIRMENVERBAND.
+I then had said that it was necessary to organize a model of the medical product-development for research substances - the model destitute-CELONA -, which bore calculation of the special corporate goals and agreed with the preset organizational structures of the business. Please allow me to recapitulate the most essential briefly:
+Clinical checks are an essential part of the obtaining products and an operational task therefore.
+They are divided into phases; company-internally up to importation of a product to hospital I/II and III.
+Model destitute-CELONA plans for the clinical test in the operational units:
+A) Processing following projects under medical project direction
+B) Trial continuity via the division into phases
+C) Synchronization and internationalization of the trial procedures
+D) Called to action in accordance with an emphasis-and co-ordination system, MEDICAL-AREA-SYSTEM.
+The center is responsible the medical coordination of the clinical checks and that research medical for phases I and II of the ZA, for phase III of the ZA medical services.
+==========================
+Example 2.
+A. Original German text
+4.4 Zeitgliederungsschema Betriebsmittelzeit
+Sondermaßnahmen außerhalb der möglichen Betriebsmittelzeit sind z.B. Mehrarbeit, Überstunden und Schicht.
+Mögliche Betriebsmittelzeit ist die Normalarbeitszeit.
+Freie Betriebsmittelzeit bedeutet, daß Betriebsmittel bereit stehen, jedoch Aufträge bzw. Personal fehlen.
+Tatsächliche Betriebsmittelzeit (Arbeitszeit)
+Arbeitszeit ist im Sinne dieser Richtlinie die Zeitspanne, für die die Arbeitskräfte für ihre Anwesenheit an den Betriebsmitteln bezahlt werden, z.B. Arbeitszeit je Schicht, Tag, Woche.
+Nebenzeiten
+Allgemeine Nebenzeiten sind bezahlte Betriebspausen, Anlauf- und Auslaufzeiten.
+Die Anlaufzeit ist der Zeitraum von der Inbetriebnanme des ersten Aggregates eines Betriebsmittels bis zum Ausstoß des ersten brauchbaren Produktes.  Die Auslaufzeit ist der Zeitraum vom Ende der vollen Beaufschlagung des ersten Aggregates eine [eines!] Betriebsmittels bis zur Außerbetriebnahme des letzten Aggregates eines Betriebsmittels.
+Rüstzeit ist der Zeitraum, der notwendig ist, das Betriebsmittel auf entsprechende Format, auf die Füllgutart und -mengen, usw. ein- oder umzustellen. Dies geschieht überwiegend z.B. bei Formatwechsel durch Maschineneinstellung (Rüstzeit I) oder bei Präparate- bzw. Auftragswechsel (Rüstzeit II).
+B. Unedited output from Logos, 1983
+4.4  Breakdown of equipment time equipment time
+Special measures outside the possible equipment time are e.g. extra work, overtimes and layer.
+Possible equipment time is the normal-working time.
+Free equipment time means that equipment are ready, however missing orders or personnel.
+Actual equipment time (working time)
+Working time is the length of time for which the employees are paid at the equipment for its/their/your presence, e.g. working time in the sense of this instruction per layer, day, week.
+Non-operating times
+General non-operating times are paid breaks, start-and shutdown times. The start time is the period of the start-up of the first aggregate of an equipment up to ejection of the first needable product. The shutdown time is the period of the end of the full admission of the first aggregate one of equipment up to the taking out of operation of the last aggregate of an equipment.
+Set-up time should be a-or shifted the period which is necessary, the equipment to corresponding format, to the product and amounts, etc.. This occurs predominant e.g. during/upon format-change via machinery-setting (set-up time I) or in the case of product-or change of order (set-up time II).
+======================
+Example 3.
+A. Original German text
+Tiger oder Wespe
+In einem Beitrag über Risikovorausschau hat 'Edgar Nill', den wir in unseren Arbeitsschutz-Informationen schon öfter zitiert haben, eine moderne Fabel erfunden. Er warnt uns bei der Entwicklung von Strategien zur Verbesserung der Arbeitssicherheit davor, in die Rolle des Großwildjägers zu geraten, der mit Fernglas und Donnerbüchse nach dem Tiger ausgeht, aber inzwischen am Stich der Wespe stirbt, die auf dem Obst saß, das er - ohne hinzuschauen - auf der Pirsch verspeiste.
+Wenn wir die Unfälle des letzten Jahres Revue passieren lassen, dann gibt es schon manche Parallelen zum Großwildjäger. Nicht technische Mängel sind es, die die Masse der Unfälle ausmachen, sondern kritische Phasen im täglichen Betriebsgeschehen, die meistens im voraus nicht erkennbar sind. Deshalb ist jeder aufgerufen, verborgene Risiken durch Vorausdenken aufzuspüren. Man wird dann erkennen, daß es vielleicht nicht noch eine technische Schikane sein kann, die etwas unmöglich macht, sondern letztlich nur sicherheitsbewußtes Arbeiten unter Nutzung der vorhandenen Sicherheitseinrichtungen zum Erfolg führt.
+B. Unedited output from Logos, 1983
+Tiger or wasp
+EDGAR NILL which we have quoted in our ARBEITSSCHUTZ-INFORMATIONEN already more often, a modern fable has devised in a contribution over risk-forecast. It/he warns to get across us against, in the reel of the big game hunter during/upon deployment of strategies for the improving the safety at work, which starts with binoculars and blunderbuss following the tiger, meanwhile, but dies at the prick of the wasp, which sat on the fruit, it/he - without to look - ate on the stalking the.
+When we leave the accidents of the last year happening review, then there are some parallel for the big game hunter already. Non-technical lacks are there, which constitute the mass of the accidents, but rather critical phases in the daily operational occurrence which are not recognizable mostly beforehand. Therefore, each is called to track down hidden risks by looking ahead. One will then recognize that it can perhaps not be another technical harassment, which somewhat impossibly makes, in the final analysis, but rather leads only safety-conscious working to the success utilizing the available reliability provisions.
+==============================
+Example 4
+A. Original German text
+Lassen Sie mich an dieser Stelle sehr dankbar die Beteiligung spanischsprechender Länder an unseren internationalen klinischen Prüfungsprogramm vermerken.
+	Mexico, oben bereits zweimal erwähnt, ist seit Jahren erfolgreich und aus dem Kreis der Länder für frühe klinische Prüfungen nicht wegzudenken. Die Zuwendung der Medizin und die verständnisvolle Unterstützung durch die zuständige Geschäftsführung und Landesleitung verdient besonders hervorgehoben zu werden.
+	Spanien, ebenfalls schon angeführt, hat sich mehr und mehr in die internationale klinische Prüfungsarbeit in frühen Phasen eingeschaltet; Anerkennung auch hier in Medizin, Geschäftsführung und Landesleitung für gute Ergebnisse.
+	Mit Freude ist die anwachsende Übernahme von medizinischen Projektleitungen in Argentinien zu registrieren; in weiteren Ländern, wie zum Beispiel, Brasilien, sind ähnliche Tendenzen zu erkennen.
+	Allen Beteiligten an klinischen Prüfungsprogrammen, die über lokale Erfordernisse hinausgehen, nochmals herzlichen Dank; dazu Mut für weitere gemeinsame Anstrengungen.
+	Mit diesen Ausführungen bin ich am Ende meines Referates angekommen. Ich danke Ihnen für Ihre Aufmerksamkeit und wünsche diesem ‘Medical Directors’ Meeting’ einen  guten Verlauf und viel Erfolg.
+B. Unedited output from Logos, 1983
+Please allow me to be very gratefully recorded at our international clinical trial programme at countries Spanish-speaking to/? this place the participation.
+	Mexico, already twice mentioned above, is successful and unimaginable from of the circle of the countries for early clinical checks for years. Allowance of medicine and the understanding support through the appropriate business management and country management earned to be emphasized especially.
+	Spain, also already listed, has intervened more and more in the international clinical trial work in early phases. Acknowledgement also here into medicine, business management and country management for good results.
+With pleasure, the growing acceptance of medical project directions should be recorded in Argentina; in further countries, such as, for example, Brazils, similar tendencies should be recognized.
+	Again cordial thanks all participants at clinical trial programmes, which exceed local requirements; in addition courage for further common efforts.
+I have arrived with these executions at the end of my report. I thank you for your attention and a good course and many success wishes this Medical Directors Meeting.
+C (a). Unedited output from Systran Personal 4.0, 2003
+Let me here very gratefully the participation of Spanish-speaking countries to our international clinical test program note. 
+Mexico, above already twice mentioned, is not to be excluded for years successful and from the circle of the countries for early clinical examinations. The allowance of the medicine and the understanding support by the responsible management and national line to be earned particularly emphasized. 
+Spain, likewise already aforementioned, switched itself more and more on into the international clinical test work in early phases; Acknowledgment also here in medicine, management and national line for good results. 
+With joy the increasing assumption of medical project lines in Argentina is to be registered; in further countries, like for example, Brazil, similar tendencies are to be recognized. 
+All involved one in clinical test programs, which go beyond local of requirements, again cordial thanks; in addition courage for further common efforts. 
+With these remarks I arrived at the end of my Referates. I thank you for your attention and wish this ' Medical Directors ' meeting ' a good process and much success.
+C (b). Unedited output from Babelfish, 2003
+Let me here very gratefully the participation of Spanish-speaking countries to our international clinical test program note. 
+Mexico, above already twice mentioned, is not to be excluded for years successful and from the circle of the countries for early clinical examinations. The allowance of the medicine and the understanding support by the responsible management and national line to be earned particularly emphasized. 
+Spain, likewise already aforementioned, switched itself more and more on into the international clinical test work in early phases; Acknowledgment also here in medicine, management and national line for good results. 
+With joy the increasing assumption of medical project lines in Argentina is to be registered; in further countries, like for example, Brazil, similar tendencies are to be recognized. 
+All involved one in clinical test programs, which go beyond local of requirements, again cordial thanks; in addition courage for further common efforts. 
+With these remarks I arrived at the end of my Referates. I thank you for your attention and wish to this ‘Medical Directors’ Meeting’ a good process and much success. 
+C (c). Unedited output from Lycos, 2003
+Let me here very gratefully the participation of Spanish-speaking countries to our international clinical test program note. 
+Mexico, above already twice mentioned, is not to be excluded for years
+successful and from the circle of the countries for early clinical examinations. The allowance of the medicine and the understanding support by the responsible management and national line to be earned particularly emphasized.
+Spain, likewise already aforementioned, switched itself more and more
+on into the international clinical test work in early phases; Acknowledgment also here in medicine, management and national line for good results. 
+With joy the increasing assumption of medical project lines in Argentina is to be registered; in further countries, like for example, Brazil, similar tendencies are to be recognized.
+All involved one in clinical test programs, which go beyond local of requirements, again cordial thanks; in addition courage for further common efforts.
+With these remarks I arrived at the end of my Referates. I thank you for your attention and wish this ' Medical Directors ' meeting ' a good process and much success.
+C (d). Unedited output from Personal Translator, 2002
+You have me in this place of countries Spanish speaking the participation very gratefully to our international one clinical make a note of examination program.
+	Mention above isn't successful and from the circle this one to imagine it without countries for early clinical examinations for years, Mexico, already twice. The care of the medicine and the understanding support through the responsible management and country line earns to be stressed particularly.
+	Also spare, Spain, specified, clinical dissertation has more and more switched itself on into the international one in early phases; Recognition also here in medicine, management and country line for good results.
+	With joy is to register the growing take-over of medical project managements in Argentina; similar trends can be recognized in wider countries, such as, Brazil.
+	All ones involved at clinical examination programs which go beyond local requirements, again many thanks; to this courage for further common efforts.
+	With these explanations I have arrived on the end of my paper. I thank you for your attention and 'Medical Directors' meeting' wishes this a good course and much success.
+C (e). Unedited output from FreeTranslation, Feb 2003
+Let me here very gratefully the participation Spanish language of countries in our international clinical test programs note.  
+Mexico, above already twice mentions, has been for years successful and out of the circle of the countries for early clinical tests not wegzudenken.  The grant of the medicine and the sympathetic support through the responsible management and country direction earned especially emphasized to become.  
+Spain, also already cited, turned on itself more and more into the international clinical test working in early phases; recognition also here in medicine, management and country direction for good results.  
+With joy, the growing acceptance of medical project directions in Argentina is to be registered; in further countries, how for example, Brazil, are to be recognized similar biases.  
+All involve in clinical test programs that go out over local requirements, once again sincere thanks to; in addition courage for further joint exertions.  
+With these executions, I arrived at the end of my report.  I thank you for your attention and wish this ‘Medical Directors Meeting’ a good progress and much success.
+C (f). Unedited output from Reverso Online, March 2003
+Let note me at this point very gratefully the participation of Spanish-speaking countries(lands) in our international clinical test program.
+Mexico, at the top already two times mentioned, is successful for years and not to imagine from the circle of the countries(lands) for early clinical tests. The allowance of the medicine and the understanding support by the responsible management and regional administration deserving particularly to be emphasized.
+ Spain, also already stated, has switched itself on more and more in the international clinical exam paper in early phases; acknowledgment also here in medicine, management and regional administration for good results.
+ With joy the growing assumption of medical project administrations is to be registered in Argentina; in other countries(lands), as for example, Brazil, similar tendencies are to be recognized.
+To all partners in the clinical test programs which go out(surpass) local requirements, again many thanks; in addition courage for other common efforts.
+ With these executions I have arrived at the end of my lecture. I thank you for your attention and wish meeting ' a good course and a lot of success this ' Medical Directors'.
+C (g). Unedited output from InterTran, 2003
+Let she me at these place very grateful the participation spanischsprechender lands at ours international clinical Prüfungsprogramm note. 
+Mexico , above already twice mentioned , am since years successful and outfield the circle the lands at early morning clinical examinations not wegzudenken. the care the medicine and the understanding grant by the relevant managerial and Landesleitung well-earned especially hervorgehoben to become. 
+Spain , likewise already angeführt , has himself more and more in the international clinical Prüfungsarbeit in early morning phases active ; recognition also here in medicine , managerial and Landesleitung at good results.
+At joy am the cumulative taking over of medical Projektleitungen in Argentina to register ; in of other lands , how for example , Brazil , are similar tendencies to recognise. All enlisted at clinical Prüfungsprogrammen , the over pubs requirements go out , again cordial thanks ; by it courage at of other joint efforts. at this executions am self at the end mine reports arrived. Self thanks you at her attention and wishes this 'Medical Directors' Meeting' a good issue and a lot of success.

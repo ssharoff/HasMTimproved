@@ -1,0 +1,150 @@
+German to English
+Operational system (Logos), at SAP, in 1983
+Source
+Klaus E. Tschira: ‘Looking back at a year of German-English MT with Logos’. In: Lawson, Veronica (ed.) Tools of the trade: Translating and the computer 5… Proceedings of a conference… 10-11 November 1983, The London Press Centre (London: Aslib, 1985), 215-235.
+A. Original German text
+Im Geschäftsleben werden die Geschäftsvorfälle regelmäßig durch Belege dokumentiert, wie etwa Buchungsbelege, Aufträge, Bestellungen. Die in ihnen enthaltenen Daten werden – in Gegensatz zu den Stammdaten – als “Bewegungsdaten” bezeichnet.
+	In herkömmlichen EDV-Anwendungs-Systemen wurden oft die Daten eines Geschäftsvorfalls getrennt bearbeitet und gespeichert. In den SAP-Systemen vermeiden wir diese unnatürliche Aufteilung und speichern einen Geschäftsvorfall statt dessen einheitlich als sog. “Dokument”, um dem Sachbearbeiter jederzeit einen Überblick über den gesamten Vorfall zu ermöglichen. 
+	Je nach dem Typ eines Dokuments (wie z.B. Buchungsbeleg, Bestellung, Auftrag) enthält es sehr unterschiedliche Daten. Allen Typen von Dokumenten jedoch ist gemeinsam die Unterteilung in Kopf- und Positionsdaten.
+	Im folgenden beschränken wir unsere Betrachtungen zunächst auf Dokumente vom Typ “Buchungsbeleg”. Alle Buchungsbelege haben einen einheitlichen Belegkopf. Ihm unterordnet sind stets mehrere Belegpositionen. Jede Belegposition repräsentiert eine Buchung auf ein bestimmtes Konto. Sie enthält demnach stets mindestens die folgenden Daten:
+	- das zu buchende Konto
+	- den zu buchenden Betrag
+	- eine Kennzeichnung der Art der Buchung, die wir “Buchungsschlüssel” nennen.
+Die Buchungsschlüssel können so gewählt werden, daß sie
+- alle praktisch vorkommenden Arten von Buchungen umfassen und
+- in Verbindung mit Konto-abhängigen Steuerdaten die eindeutige Festlegung sämtlicher Zusatzdaten erlauben, die im Zusammenhang mit der betrachteten Buchung anwendbar sind.
+Die Zusammenfassung aller überhaupt in Buchungspositionen vorkommenden Daten führt zur Bildung einer fiktiven maximalen Buchungsposition. Die Felder aller realen Buchungspositionen sind Teilmengen der Felder der (fiktiven) maximalen Buchungspositionen.
+Eine feldweise Steuerung des Auftretens der verschiedenen Felder ist glücklicherweise nicht nötig. Es gibt Gruppen von Feldern, die stets gemeinsam auftreten oder nicht auftreten und die wir deshalb zu sog. "Feldgruppen" zusammenfassen können. Tatsächlich genügt es, die oben erwähnte Steuerung (in Abhängigkeit von Konto und Buchungsschlüssel) auf Feldgruppen anstatt auf Felder zu beziehen, was eine erhebliche Vereinfachung bedeutet.
+Die am Beispiel von Buchungsbelegen verdeutlichten Strukturen lassen sich in ähnlicher Weise auch bei anderen Belegtypen (wie Bestellungen und Aufträgen) aufzeigen. Durch Verallgemeinerung gelangen wir zu folgendem Schema der Belegverarbeitung und -speicherung:
+- Kopf und Positionen eines Dokuments werden gemeinsam und vollständig erfaßt und stets gemeinsam gespeichert.
+- Die Positionsdaten können verdichtet werden, so daß in jedem konkretem Einzelfall nur die tatsächlich anwendbaren Feldgruppen gespeichert werden. Hierbei entstehen ungeheuer viele Varianten.
+- Für die Verarbeitung werden die Daten der verschiedenen Belegpositionen stets in einem einzigen einheitlichen und festen Format, der (fiktiven) maximalen Belegposition, bereitgestellt.
+- Die Konvertierung einer Position zwischen der verdichteten Form (die für die Speicherung besonders wirtschaftlich ist) und der expandierten Form (die eine bequeme Verarbeitung ermöglicht) geschieht durch allgemeine, anwendungsneutrale Routinen, die in der Schnittstelle zur Datenbank-Verwaltung enthalten sind (siehe Abb. 1).
+Das dargestellte Prinzip der Belegverarbeitung bietet für die Finanzbuchhaltung entscheidende Vorteile:
+- Aus dem Belegzusammenhang kann jederzeit der gesamte Geschäftsvorfall überblickt werden.
+- Die belegweise Erfassung ermöglicht einige Konsistenz-Prüfungen. Die bekannten Probleme, die beim zeitlich getrennten Buchen von Geschäftsvorfällen in Form von Einzel- und Sammelbuchungen auftreten, können vermieden werden; die belegweise Verarbeitung bildet demnach die Grundlage für eine jederzeit formal selbstkonsistente Buchhaltung.
+B. Unedited output from Logos, 1983
+	In the business-life, the business transactions are documented regularly by document/vouchers, as for example posting documents, orders, orders. The data included in them are designated as movement data – in contrast to the master data -.
+	The data of a business transaction were often processed and stored separately in conventional EDP-application-S-systems. In the SAP-systems, we avoid this unnatural breakdown and store a business transaction instead of which than sucked uniform. At any time, to make possible document, about the person in charge an overview of the entire occurrence.
+	According to the type of a document (such as, e.g., posting document, order, order), it includes very different data. The subdivision into header-and item data is common to all types of documents however.
+	In the following we limit our considerations first on of document of the type posting document. All posting documents have an uniform document header. Several document items are subordinated to it/him always. Every document item represents a booking on a certain account. It/she accordingly includes the following data always at least:
+	- That to bebuchende account
+	- The amount to be posted
+	- A qualification of the type of the booking which we of posting keys call.
+The posting keys can be selected in such a way that it
+- Include all practically occurring taking of bookings and
+- Permit the unambiguous determination of all additional data in connection with account-dependent control data, which in conjunction with the regarded booking, are usable.
+The summary of all data occurring actually in booking-items conducts to develop a fictitious maximum booking-item. The fields all physical booking-items are subsets of the fields of the (fictitious) maximum booking-items.
+A field-by-field control of the occurrence of the different fields is luckily not necessary. There are groups of fields which occur always commonly, or occur not and which we sucked therefore too. Field-groups are able to combine. In fact, it suffices to relate the control mentioned above (depending on account and posting key) to field-groups instead of on fields what a considerable simplification means.
+The structures clarified as exemplified by of posting documents could be demonstrated in similar manner also with other document types (as orders and order). By the generalization, we were successful to the following scheme of the document handling and storage:
+- Header and items of a document are input commonly and completely and always stored together.
+- The item data can be condensed so that, in each, only the field-groups usable in fact are stored to actual individual case. With this, many variants result tremendously.
+- For the processing, the data of the different document items are readied, always in a single uniform and fixed format, the (fictitious) maximum document item.
+- The conversion of an item between the condensed form (which is especially economic for the storage) and the expanded form (which what is to be a comfortable processing) takes place
+The represented principle the document handling offers advantages decisive in favor of the financial accounting:
+- At any time, the entire business transaction can be surveyed from the document/voucher-context.
+- The documentwise input makes possible a few consistency-checks. Occur the well-known problems which business transaction in the case of the posting separated within a given time of/by in the form of individual-and collective postings, can be avoided; the documentwise processing accordingly forms the basis for an at any time formally self-consistent accounting.
+C (a). Unedited output from Systran Personal 4.0, Feb 2003
+In the business life the business transactions are documented regularly by vouchers, as for instance vouchers, orders, orders. The data contained in them become - in contrast to master data - when "designates transaction data".
+		In conventional EDP application systems the data of a business transaction were often worked on and stored separately. In the SAP systems we avoid this unnatural allocation and store a business transaction instead of its uniformly as if sucked. "document", in order to at any time make for the specialist possible an overview of the entire incident.
+	Depending upon the type of a document (e.g. voucher, order, order) contains it very different data. However the partitioning is common to all types of documents in head and item data.
+The following we limit our views first to documents of the type "voucher". All vouchers have a uniform voucher head. Always are several voucher items subordinate to it. Each voucher item represents a reservation on a certain account. It contains therefore always at least the following data:
+ - the too bebuchende account
+- the amount which can be booked
+- a marking of the kind of the reservation, which we call "posting keys".
+[….]
+A controlling by field of the occurrence of the different fields is not necessary fortunately. There are groups of fields, arises always together or does not arise and which we therefore too sucked. "field groups" to summarize can. It is actually sufficient to refer the control mentioned above (as a function of account and posting key) to field groups instead of on fields which means a substantial simplification.
+[…]
+C (b). Unedited output from Babelfish, Feb 2003
+In the business life the business transactions are documented regularly by vouchers, as for instance vouchers, orders, orders. The data contained in them become - in contrast to master data - when "designates transaction data".
+ In conventional EDP application systems the data of a business transaction were often worked on and stored separately. In the SAP systems we avoid this unnatural allocation and store a business transaction instead of its uniformly as if sucked. "document", in order to at any time make for the specialist possible an overview of the entire incident. 
+Depending upon the type of a document (e.g. voucher, order, order) contains it very different data. However the partitioning is common to all types of documents in head and item data. 
+The following we limit our views first to documents of the type "voucher". All vouchers have a uniform voucher head. All vouchers have a uniform voucher head. Always are several voucher items subordinate to it. Each voucher item represents a reservation on a certain account. It contains therefore always at least the following data:
+ - the account which can be booked
+ - the amount which can be booked
+ - a marking of the kind of the reservation, which we call "posting keys".
+[…]
+A controlling by field of the occurrence of the different fields is not necessary fortunately.  There are groups of fields, arises always together or does not arise and which we therefore too sucked. "field groups" to summarize can. It is actually sufficient to refer the control mentioned above (as a function of account and posting key) to field groups instead of on fields which means a substantial simplification. 
+[…]
+C (c). Unedited output from Personal Translator PT, 2002
+	In the business life the business transactions are regularly documented by pieces of evidence such as booking pieces of evidence, orders, orders. The data contained in them are described as "movement data" in contrast for the master data.
+	The data of a business transaction were finishedly and storedly often differentiated in conventional EDP application systems. In the SAP systems we avoid this unnatural division and store a business transaction instead of this one uniformly as a so-called "document" to make a summary of the complete occurrence possible for the clerk any time. 
+	Depending on the type of a document (such as booking piece of evidence, order, order) it includes very different data. The subdivision, however, is all types of documents together in head and position data.
+	At first we restrict our considerations to documents of the type "booking piece of evidence" in the following. All booking pieces of evidence have a uniform piece of evidence head. Subordinates to it are always several piece of evidence positions. Every piece of evidence position represents a booking on a certain account. It always includes therefore at least the following data:
+	this to bebuchende account -- 
+	the amount to be entered -- 
+	an identification of the manner of the booking which we "booking keys" mention -- .
+[…]
+A field wise control of the appearance of the different fields fortunately isn't necessary. There are groups of fields which can always appear or not appear and therefore we summarize this one to so-called "arrays" together. Actually it suffices, control mentioned this one above (into dependence of account and booking key) on arrays instead of towards fields buy what a considerable simplification means.
+[…]
+C (d). Unedited output from Lycos, 2003
+In the business life the business transactions are documented regularly by vouchers, as for instance vouchers, orders, orders. The data contained in them become - in contrast to master data – when "designates transaction data". 
+In conventional EDP application systems the data of a business transaction were often worked on and stored separately. In the SAP systems we avoid this unnatural allocation and store a business transaction instead of its uniformly as if sucked. "document", in order to at any time make for the specialist possible an overview of the entire incident. 
+Depending upon the type of a document (e.g. voucher, order, order) contains it very different data. However the partitioning is common to all types of documents in head and item data.
+The following we limit our views first to documents of the type "voucher". All vouchers have a uniform voucher head. Always are several voucher items subordinate to it. Each voucher item represents a reservation on a certain account. It contains therefore always at least the following data:
+ - the too bebuchende account
+ - the amount which can be booked
+ - a marking of the kind of the reservation, which we call "posting keys".
+[…]
+A controlling by field of the occurrence of the different fields is not necessary fortunately. There are groups of fields, arises always together or does not arise and which we therefore too sucked. "field groups" to summarize can. It is actually sufficient to refer the control mentioned above (as a function of account and posting key) to field groups instead of on fields which means a substantial simplification.
+[…]
+C (e). Unedited output from FreeTranslation, March 2003
+In the business life, the business occurrences are documented regularly through records, as well as about entry record, orders, orders.  The data contained in them are designated – in contrast to the tribe data – as “movement data”.  
+In conventional EDP-uses-systems, the data of a business occurrence were separated worked and stored often.  In the SAP systems, we avoid this unnatural distribution and store a business occurrence instead of its uniformly as so-called.  “Document”in order to enable the expert always an overview over the total occurrence.  
+According to the type of a document (like entry record, order, order), it contains very different data.  All types of documents however is joint the subdivision in head data and position data.  
+In the following, we restrict our views first of all on documents of the type “entry record”.  All entry records have a uniform record head.  It are subordinates several record positions always.  Each record position represents an entry on a certain account.  It contains accordingly always at least the following data:
+ - that to bebuchende account
+ - that to booking sum
+ - a marking of the type of the entry that we name “entry key”.  
+[…]
+A field manner control of the appearance of the different fields is fortunately not necessary.  It gives groups of fields, that jointly appear or not appear always, and that we therefore to so-called.  “Field groups” summarize can.  Actually it, that to relate above mentioned control (dependent upon account and entry key) on field groups instead of on fields, suffices, what means a considerable simplification.
+[…]
+C (f). Unedited output from Reverso Online, March 2003
+In the business life the commercial incidents are documented regularly by vouchers, approximately like vouchers, orders, orders. The data contained in them are called - in contrast to the master data - "movement data".
+ In conventional EDV Anwendungs to systems the data of a commercial incident were treated often separated and were stored. In the SAP systems we avoid this unnatural subdivision and store a commercial incident instead uniformly as so-called. "Document" to make possible a view about the whole incident for the specialist at any time. 
+According to the type of a document (as for example voucher, order, order) contains it very different data. However, to all types of documents the partitioning is together in head and position data.
+In the following we limit our considerations first to documents of the type "Voucher". All vouchers have a uniform(standardized) voucher head. To him subordinates are always several voucher positions. Every voucher position represents a reservation on a certain account. Therefore, she(it) always contains at least the following data:
+ - the too bebuchende account
+ - the amount to be booked
+ - a marking of the kind(way) of the reservation which we name(mention) "reservation key".
+[…]
+A field-wise control of the appearance of the different fields is not necessary, luckily. There are groups of fields which always appear together or do not appear and which we, therefore, too so-called. "Field groups" can summarize. Actually it is enough, which to cover at the top mentioned control (as a function of account and reservation key) to field groups instead of on fields what means a substantial simplification.
+[…]
+C (g). Unedited output from T-1
+[InterTran, 2003] resubmit (bebuchende)
+In the business people become the Geschäftsvorfälle regularly by receipts documented , how about Buchungsbelege , orders , orders. The in you contain data become in contradistinction to the Stammdaten when Bewegungsdaten " asterisks. In traditional ADP - use - systems became often the data a Geschäftsvorfalls separate machined and saving. In the SAP - systems avoid we this non-natural division and store a Geschäftsvorfall instead uniform when suction. " document ", about the specialist at any time a view over the entire incident to make possible for. depending on the type a document ( how z.B. Buchungsbeleg , order , order ) abstains it very varying data. all types of documents however am joint the subdivision in head - and Positionsdaten. In the following restrict we ours examinations first of all on documents from type Buchungsbeleg ". All Buchungsbelege credit a standardised Belegkopf. Him subordinates are continually several Belegpositionen. Every Belegposition represent a booking on one definite account. She abstains accordingly continually at least the following data :
+the to bebuchende account 
+the to beech trees amount 
+a identification the way the booking , the we Buchungsschlüssel " name. 
+[…]
+A sergeant steering of the appearance the various people fields am fortunately not necessary. There is groups of fields , the continually joint appearance or not appearance and the we therefore to suction. Feldgruppen " combine ability. Actual be enough it , the above mentioned steering ( in dependence of account and Buchungsschlüssel ) on Feldgruppen instead on fields to cover , what a considerable reduction connotes.
+[…]
+C (h). Unedited output from Globalink Power Translator, 1994
+In the @@Geschäftsleben the @@Geschäftsvorfälle are documented regularly
+through evidence, how about @@Buchungsbelege, orders, orders.  The data
+contained in them become - in contrast to the @@Stammdaten - as
+  "@@Bewegungsdaten" marked.
+In traditional EDP - application - systems the data were processed and stored
+often a @@Geschäftsvorfalls separately.  In the @@Sap - systems we avoid this
+unnatural division and store a @@Geschäftsvorfall instead of which uniformly
+as so-called  "document" , to make possible the official any time an overview
+over the entire incident.  According to the type of a document (such as
+@@Buchungsbeleg, order, order) it contains very different data.  All types of
+documents however is jointly the subdivision in head - and @@Positionsdaten.
+In the following limit we our considerations first of all to documents of the
+type  "@@Buchungsbeleg".  All @@Buchungsbelege have an uniform @@Belegkopf.  
+Him/it subordinates are always several @@Belegpositionen.  An entry represents
+Each @@Belegposition on a certain account.  She/it contains accordingly always
+at least the following data:
+- that to @@bebuchende account
+- the amount to be booked
+- a labeling of the kind of the entry, which we call" @@Buchungsschlüssel  ".  
+A @@feldweise steering of the appearance of the different fields is not
+fortunately necessary.
+[…]
+There are groups of fields, which appear always jointly or do not appear and
+can sum up them we therefore too so-called" @@Feldgruppen  ".  Actually it
+suffices, which to cover above mentioned steering (in dependence on account
+and @@Buchungsschlüssel) to @@Feldgruppen instead of to fields, which a
+considerable simplification means.
+[…]

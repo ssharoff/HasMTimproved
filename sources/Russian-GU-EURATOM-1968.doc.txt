@@ -1,0 +1,29 @@
+Russian to English
+Operational system (Georgetown system) 
+at EURATOM, in 1967
+Source
+Perschke, Sergei: ‘Machine translation – the second phase of development’ Endeavour 27 (1968), 97-100.
+A. Original Russian text (= abstract of article)
+О возможности возникновения нестабильностей в плазме, захваченной поперечным магнитным полем.
+	Исследованы условия возникновения и развития нестабильности в плазме, захваченной поперечным магнитным полем и прошедшей через диафрагму. Показано, что при заземлении металлической диафрагмы нестабильности плазмы не развиваются.
+	Вопрос об устойчивости плазмы, захваченной поперечным магнитным полем и движущейся вдоль магнитного поля, представляется весьма существенным при рассмотрении возможностей использования  этой плазмы для заполнения магнитных ловушек.
+	В работе при исследовании плазмы, захваченной поперечным магнитным полем, не было обнаружено никаких нестабильностей. Плазма при этом пропускалась через щелевые диафрагмы, либо  вообще не подвергалась механическому коллимированию.
+	В настоящей работе сообщается о возможности развития неустойчивости в этой плазме.
+	Экспериментальная установка  для изучения взаимодействия плазмы с поперечным магнитным полем описана подробно в …  Плазма, захваченная поперечным магнитным полем и распространяющаяся в направлении силовых линий, пропускалась через диафрагму с центральным отверстием диаметром 15 мм.  Диафрагма устанавливалась на достаточно большом расстоянии от места инжекции плазмы в магнитное поле (~30 см.); при этом плазма, прошедшая через диафрагму, имеет достаточно большое отношение продольной энергии к энергии поперечного движения.  На расстоянии ~100 см. от  диафрагмы дрейф плазмы в направлении инжекции не наблюдался.  Плазменные сгустки регистрировались с помощью плазмоскопа на различных расстояниях от диафрагмы.
+B. Unedited output from Georgetown system (at EURATOM), ca. 1967?
+Concerning the possibility of emergence of instabilities in plasma, which was captured by cross magnetic field.
+	Studied the conditions of emergence and the developments of instability in plasma, which was captured by cross magnetic field and which passed through diaphragm. Showed, that upon the grounding of metallic diaphragm of instability plasmas are not developed.
+	Question concerning the stability of plasma, which was captured by cross magnetic field and moving along magnetic field, is very essential upon the consideration of possibilities of utilization of this plasma for filling magnetic trap.
+	In work upon the investigation of plasma, which was captured by cross magnetic field, was not discovered any instabilities. Plasma in addition to that was passed through gap diaphragms, or in general was not subjected to mechanical collimation.
+	In right work is reported concerning the possibility of development of instability in this plasma.
+	Experimental apparatus for the study of the interaction of plasma with cross magnetic field was described in detail in …  Plasma, which was captured by cross magnetic field and which is propagated in the direction of the lines of force, was passed through diaphragm with central opening by diameter 15 mm. The diaphragm installed on sufficiently great distance from the place of injection of plasma in magnetic field ((diff) 30 cm.); in addition to that plasma, which passed through diaphragm, has sufficiently the great relation of longitudinal energy to the energy of cross movement. On distance (diff) 100 cm. From diaphragm the drift of plasma in the direction of injection was not observed. Plasma bunches were recorded from plasmascope on different distances from diaphragm.
+C (a). Unedited output from Babelfish, February 2003
+On the possibility of the appearance of instabilities in the plasma, seized by transverse magnetic field.
+Are investigated the conditions for appearance and development of instability in the plasma, seized by transverse magnetic field and which passed through the diaphragm. It is shown that during grounding of metallic diaphragm the instabilities of plasma are not developed. 
+A question about the stability of plasma, seized by transverse magnetic field and which moves along the magnetic field, is very essential in the examination of the possibilities of using this plasma for the filling of magnetic traps. 
+In the work during the examination of the plasma, seized by transverse magnetic field, it was not discovered any instabilities. Plasma in this case was passed through the slit diaphragms, or it not at all underwent mechanical collimation.
+нестабильностей in the plasma seized by a cross magnetic field. 
+Conditions of occurrence and development of instability in the plasma seized by a cross magnetic field and past through диафрагму are investigated. It is shown, that at grounding metal диафрагмы instability of plasma do not develop. 
+The question on stability of the plasma seized by a cross magnetic field and moving along a magnetic field, is represented rather essential by consideration of opportunities of use of this plasma for filling magnetic traps. 
+In work at research of the plasma seized by a cross magnetic field, it was not revealed any нестабильностей. Plasma thus was passed(missed) through slot-hole диафрагмы, or at all was not exposed mechanical коллимированию. 
+диафрагму with the central aperture in diameter of 15 mm. Диафрагма it was established on big enough distance from a place of injection of plasma in a magnetic field (~30 see); thus plasma, past through диафрагму, has big enough attitude(relation) of longitudinal energy to energy of cross movement. On distance ~100 see from диафрагмы drift of plasma in a direction of injection was not observed. Plasma clots were registered with the help плазмоскопа on various distances from диафрагмы.

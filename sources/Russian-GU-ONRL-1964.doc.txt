@@ -1,0 +1,21 @@
+Russian to English
+Operational system (Georgetown system),
+at Oak Ridge National Laboratory, in August 1964
+Source
+Henisz-Dostert, Bozena ‘Experimental machine translation’, in: Austin, William A. (ed.) Papers in honor of Léon Dostert (The Hague: Mouton, 1967), 57-91
+A. Original Russian text
+Экспериментальные результаты и их обсуждение.
+	Конденсированные на холодную подложку слои теллура обладали сопротивлением, лежащим в пределах нескольких сот килоом. Измерение сопротивления в большинстве случаев производилось в воздухе. Прямой и обратный ходы температурной зависимости сопротивления при нагревании и охлаждении не совпадают, причем после каждого цикла нагревание – охлаждение сопротивление образца при данной температуре возрастает (см. Рис. 1).
+	Длительное наблюдение за поведением образцов теллура, не подвергнутых термической обработке и находящихся при комнатной температуре, показало необратимое возрастание сопротивления со временем.
+B. Unedited output from Georgetown system (at ORNL), August 1964
+Experimental results and their discussion.
+	Condensed on cold support the layers of tellurium possessed resistance, which lie within the limits several hundredth kiloom. The measurement of resistance in the majority of cases was caried out in air. The straight and back courses of temperature relation of resistance upon heating and cooling do not coincide, yet after each ring heating – cooling the resistance of form at the given temperature increases (cf. Fig. 1).
+	Prolonged observation for the behavior of the forms of tellurium, not subjected to thermal treatment and being at room temperature, showed irreversible increase of resistance with time.
+C (a). Unedited output from Babelfish, February 2003
+Experimental results and their consideration.
+The layers of tellurium condensed on the cold base layer possessed the resistance, which lies within the limits of several hundred kilohms.The measurement of resistance in the majority of the cases was made in air. The straight/direct and back strokes of the temperature dependence of resistance during the heating and the cooling do not coincide, moreover after each cycle heating?cooling the resistance of sample at this temperature grows/rises (see Fig. 1).
+Prolonged observation of the behavior of the samples of tellurium, not to heat-treated and which are located at room temperature, the irreversible drag-rise characteristics in the course of time showed.
+C (b). Unedited output from PROMT Online, February 2003
+Experimental results and their discussion. 
+The layers of tellurium condensed on a cold substrate had the resistance laying within the limits of several сот килоом. Measurement of resistance in most cases was made in air. Direct and return courses of temperature dependence of resistance at heating and cooling do not coincide, and after each cycle heating - cooling resistance of a sample at the given temperature grows (see. A Fig. 1). 
+Long supervision over behaviour of samples of the tellurium which is not subjected to thermal processing and taking place at room temperature, has shown irreversible increase of resistance in due course. 

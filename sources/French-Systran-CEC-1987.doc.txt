@@ -1,0 +1,56 @@
+French to English
+Operational system (Systran)
+at Commission of the European Communities,
+in 1987
+Five examples
+Source:
+Beaven, John (1988): ‘MT: 10 years of development’, Terminologie et Traduction (1988), 1: 242-256. 
+Example 1
+A. Original French text
+La Commission a également adopté la directive 95/44/CE prévoyant des dérogations au régime phytosanitaire en ce qui concerne des travaux à des fins d'essais ou à des fins scientifiques ou des travaux sur les sections végétales.
+B (a). Unedited output from Systran, 1987
+	The Commission adopted also the directive 95/44/CE anticipating exemptions from the plant health rule with regard to work at ends of tests or at scientific ends or work on the vegetable selections.
+B (b). Unedited output from Systran, 1997
+The Commission also adopted the directive 95/44/CE making exemptions from the plant health arrangement with regard to work for the purpose of tests or for scientific purposes or work on the plant selections.
+C. Unedited output from Systran Personal 4.0, 2002
+The Commission also adopted directive 95/44/CE envisaging of the exemptions from the plant health mode with regard to work at ends of tests or fine scientists or work on the vegetable sections.
+===========
+Example 2.
+A. Original French text
+Aucun progrès ne peut cependant plus être accompli avant que le Parlement ne se soit prononcé.
+B (a). Unedited output from Systran, 1987
+	No progress can however no longer be accomplished before Parliament decided.
+B (b). Unedited output from Systran, 1997
+	No progress can however be made before parliament has decided.
+C. Unedited output from Systran Personal 4.0, 2002
+No progress can be accomplished however more before the Parliament did not decide.
+=============
+Example 3.
+A. Original French text 
+Leur objet n’était pas de formuler des recommandations politiques, mais de servir de base analytique à la réflexion politique.
+B (a). Unedited output from Systran, 1987:
+	Their object was not to formulate of the political recommendations, but to be used as a basis analytical for the poltical reflexion.
+B (b). Unedited output from Systran, 1997:
+Their object was not to make political recommendations, but to serve as an analytical base to political reflexion.
+C. Unedited output from Systran Personal 4.0, 2002
+Their object was not to make political recommendations, but to be used as a basis analytical for the political reflexion.
+=============
+Example 4.
+A. Original French text 
+Au fil du temps, on peut s’attendre à un certain comblement de l’écart par le taux relativement élevé de l’inflation, qui ne sera pas entièrement compensé par la dévaluation de la monnaie et par la hausse des prix agricoles intérieurs, vu que la demande de denrées alimentaires augmente un peu plus vite que l’offre.
+B (a). Unedited output from Systran, 1987
+	To the wire of the time, one can expect certain filling of the divergence by the relatively raised rate of the inflation, which entirely will not be compensated by the devaluation of the currency and by the increase in the domestic farm prices, since the request for foodstuffs increases more quickly a little than the offer.
+B (b). Unedited output from Systran, 1997
+Over the course of time, one can expect certain filling of the divergence by the relatively high rate of inflation, which entirely will not be compensated by the devaluation of the currency and by the domestic farm price increase, having regard to that the request for food increases slightly more quickly than the offer.
+C. Unedited output from Systran Personal 4.0, 2002
+With the wire of time, one can expect a certain filling of the variation by the relatively high rate of the inflation, which will not be entirely compensated by the devaluation of the currency and the rise of the interior farm prices, considering the request for foodstuffs increases a little more quickly than the offer.
+===========
+Example 5.
+A. Original French text
+Nos principaux objectifs sont: comprendre les opérations faisant partie du système et leur mode de contrôle; développer une approche d'audit adéquate afin d'évaluer les opérations de contrôle conformes aux procédures établies. Pourriez-vous compléter ce questionnaire pour chacune des actions qui vous concerne et nous le renvoyer au plus tard le 31/3/97.
+B (a). Unedited output from Systran, 1987
+Our principal aims are: to comprehend the operations making part of the system and their method of control; to develop an approach of to said adequate in order to evaluate the control operations in conformity with the established procedures. Could you supplement this questionnaire for each of the actions which you concern and us it to return at the latest the 31/3/97.
+B (b). Unedited output from Systran, 1997
+Our main goals are: to include the operations being part of the system and their method of control; to develop an adequate audit approach in order to evaluate the control operations in conformity with the established procedures. Could you supplement this questionnaire for each action which concerns you and to return it to us at the latest on 31/3/97.
+C. Unedited output from Systran Personal 4.0, 2002
+Our principal objectives are: to include/understand the operations belonging to the system and their mode of control; to develop an adequate approach of audit in order to evaluate the check operations in conformity with the established procedures. Could you supplement this questionnaire for each action which concerns you and return it to us at the latest the 31/3/97.

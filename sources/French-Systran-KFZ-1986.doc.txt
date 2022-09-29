@@ -1,0 +1,19 @@
+French to English
+Operational system (Systran) 
+at Kernforschungszentrum, Karlsruhe, in 1986
+Source
+ F.W.A.Habermann: ‘Provision and use of raw machine translation’ Terminologie et Traduction 1, 1986, 29-42.]
+A. Original French text
+Cette zone est en très bonne corrélation avec l’anneau noir visible par autoradiographie, indice d’un appauvrissement en Plutonium, qui traduit une régression du front de fusion pendant le palier de puissance (/7/).
+-- Sur cet échantillon est également observée une incursion d’oxyde liquide à travers une fissure, jusqu’à la gaine, sans endommagement de celle-ci (Planche 13).
+-- Sur l’échantillon F, en coupe longitudinale (235-265 mm/bcf) ( Planches 14 et 15) trois traversées ont été observées micrographiquement (grossissement 200) :
+-- Au niveau 237 mm/bcf (A1A2), Planchel6, la zone qui borde la cavité est poreuse bien que plus dense qu’en périphérie du combustible. On observe nettement une discontinuité latérale de matière reflétant vraisemblablement le niveau d’oxyde liquide en pile.
+-- Au niveau 249 mm/bcf (B1B2), Planche 17, sur 200 microns à partir du bord de la cavité, la zone est très dense. Sa taille correspond à celle de la zone des gros grains révélée par attaque chimique, sur la macrographie. Sur une couronne de 700 microns de large à partir du bord externe, le combustible ne semble pas restructuré. Entre ces deux zones on observe des pores lenticulaires sur 500 microns au moins.
+-- Sur l’échantillon K, coupe longitudinale (305-235 mm/bcf ) de l’aiguille 19 (Planche 23), on observe dans la partie basse une séquence de zones semblables aux observations précédentes. Dans la partie haute, au dessus de la bulle, on observe micrographiquement une zone très dense localisée tout à fait en haut de colonne fissile, et bordée de pores lenticulaires, montrant que l’oxyde liquide ayant atteint la partie haute de la colonne fissile s’est refroidi et resolidifié se comportant ensuite comme un oxyde solide. Sur cet échantillon figure aussi la partie inférieure de la cale UO2 supérieure parfaitement intacte contrairement à celle de l’aiguille 6 de FONDUE.
+B. Unedited output from Systran, 1986
+This zone is in very strong correlation with the visible black ring by autoradiography, evidence of impoverishment in plutonium, which translates a regression of the melt front hanging the power bearing (/7/).
+- On this sample is also observed a liquid oxide incursion through a crack, until the clad, without damage of it (Board 13).
+- On the sample F, in longitudinal cut (235-265 mm / bcf) (boards 14 and 15) three tunnels were observed micrographiquement (enlargement 200):
+- At the mm level 237 / bcf (A1A2), board 16, the zone which borders the cavity is porous although more dense than in periphery of the fuel. Side matter discontinuity is observed clearly probably reflecting the in core liquid oxide level.
+- At the mm level 249 / bcf (B1B2), board 17, out of 200 microns starting from the edge of the cavity, the zone is very dense. Its size corresponds to that of the zone of the coarse grains revealed by chemical etching, on macrography. On some 700 microns broad ring starting from the external edge, the fuel does not seem not restructured. Between these two zones lenticular pores are observed on 500 microns at least.
+- On the sample K, longitudinal cut (305-335 mm / bcf) of the pin 19 (board 23 ), in the low part a zone sequence is observed similar to the previous observations. In the high part, to the top of the bubble, one observe micrographiquement a localised very dense zone completely in fissile, and bordered top of column of lenticular pores, showing that the liquid oxide having reached the high part of the fissile column cooled and resolidifi3rd behaving then like a solid oxide. On this sample figure also the lower part of the upper U02 hold, perfectly intact contrary to that of the MELTED pin 6 of.

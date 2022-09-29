@@ -1,0 +1,293 @@
+Russian to English
+Experimental system 
+(Georgetown University in collaboration with IBM)
+Demonstrated on 7 January 1954 at IBM Headquarters, New York
+Source: 
+Garvin, Paul L. (1967): ‘The Georgetown-IBM experiment of 1954: an evaluation in retrospect’‬湩栠獩›湏洠捡楨敮琠慲獮慬楴湯›敳敬瑣摥瀠灡牥⁳吨敨䠠条敵›潍瑵湯‬㤱㜶Ⱙ瀠㔮ⴱ㐶മ
+1. Приготовляют тол.
+2. Тол приготовляют из угля.
+3. Тол приготовляется из угля.
+4. Боец приготовляется к бою.
+5. Качество угля определяется калорийностью.
+6. Тол приготовляется из каменного угля.
+7. Бензин добывают из нефти.
+8. Бензин добывается из нефти.
+9. Аммонит приготовляют из селитры.
+10. Аммонит приготовляется из селитры.
+11. Спирт вырабатывают из картофеля.
+12. Спирт вырабатывается из картофеля.
+13. Крахмал вырабатывают из картофеля.
+14. Крахмал вырабатывается из картофеля.
+15. Тол приготовляется химическим путем из каменного угля.
+16. Аммонит приготовляется химическим путем из селитры.
+17. Крахмал вырабатывается механическим путем из картофеля.
+18. Цена картофеля определяется рынком.
+19. Величина угла определяется отношением длины дуги к радиусу.
+20. Калорийность определяет качество нефти.
+21. Обработка повышает качество нефти.
+22. Железо добывается из руды.
+23. Медь добывается из руды.
+24. Динамит приготовляется из нитроглицерина с примесью инертного материала.
+25. Возвышение определяется нивелированием.
+26. Угол места цели определяется оптическим измерением.
+27. Цена пшеницы определяется рынком.
+28. Цена пшеницы определяется спросом.
+29. Цена картофеля определяется спросом.
+30. Дороги строятся из камня.
+31. Войска строятся клином.
+32. Мы передаем мысли посредством речи.
+33. Железо добывают из руды.
+34. Медь добывают из руды.
+35. Железо добывается из руды химическим процессом.
+36. Медь добывается из руды химическим процессом.
+37. Динамит приготовляется химическим путем из нитроглицерина с примесью инертного материала.
+38. Дома строятся из кирпича.
+39. Дома строятся из бетона.
+40. Военный суд приговорил сержанта к лишению гражданских прав.
+41. Уголовное право является важным отделом законодательства.
+42. Наука о кислородных соединениях является важным отделом химии.
+43. Владимир является на работу поздно утром.
+44. Международное понимание является важным фактором в решении политических вопросов.
+45. Ведутся переговоры о перемирии.
+46. Федерация состоит из многих штатов.
+47. Радиостанция передает последние сообщения о погоде.
+48. Радиостанция передает последние политические известия.
+49. Владимир получает большое жалование.
+Other examples were given in newspaper reports at the time:
+50. Владимир является на работу поздно утром.
+51. Дороги строятся из бетона.
+52. Командир получает сведения по телеграфу.
+===================================
+Translated at IBM demo 7 Jan 1954:
+	(* = examples recorded in contemporary news reports)
+[For commentary on the demonstration and its impact
+see my articles in  HYPERLINK "http://ourworld.compuserve.com/homepages/WJHutchins/GU-IBM.htm" MT News International 8 (May 1994), 
+and at the   HYPERLINK "http://ourworld.compuserve.com/homepages/WJHutchins/AMTA-2004.pdf"  AMTA-2004  conference.]
+1. They prepare TNT.
+2. They prepare TNT out of coal.
+3. TNT is prepared out of coal.
+4. Fighter is prepared for battle.
+5*. The quality of coal is determined by calory content.
+6. TNT is prepared out of stony coal.
+7. They obtain gasoline out of crude oil.
+8. Gasoline is obtained out of crude oil.
+9. They prepare ammonite out of saltpeter.
+10. Ammonite is prepared out of saltpeter.
+11. They produce alcohol out of potatoes.
+12. Alcohol is produced out of potatoes.
+13. They produce starch out of potatoes.
+14. Starch is produced out of potatoes.
+15. TNT is prepared by chemical method out of stony coal.
+16. Ammonite is prepared by chemical method out of saltpeter.
+17*. Starch is produced by mechanical method out of potatoes.
+18. Price of potatoes is determined by the market.
+19*. Magnitude of angle is determined by the relation of length of arc to radius.
+20. Calory content determines the quality of coal.
+21. Processing improves the quality of crude oil.
+22. Iron is obtained out of ore.
+23. Copper is obtained out of ore.
+24. Dynamite is prepared out of nitroglycerine with admixture of inert material.
+25. Elevation is determined by leveling.
+26. Angle of site is determined by optical measurement.
+27. The price of wheat is determined by the market.
+28. The price of wheat is determined by the demand.
+29. The price of potatoes is determined by the demand.
+30. Roads are constructed out of stone.
+31. Troops line up in wedge formation.
+32.* We transmit thoughts by means of speech.
+33. They obtain iron out of ore.
+34. They obtain copper out of ore.
+35*. Iron is obtained out of ore by chemical process.
+36. Copper is obtained out of ore by chemical process.
+37*. Dynamite is prepared by chemical method out of nitroglycerine with admixture of inert material.
+38. Houses are constructed out of brick.
+39. Houses are constructed out of concrete.
+40*. Military court sentenced the sergeant to deprival of civil rights.
+41. Penal law constitutes an important section of legislation.
+42. The science of oxygen compounds constitutes an important section of chemistry.
+43. Vladimir appears for work late in the morning.
+44*. International understanding constitutes an important factor in decision of political questions.
+45. Negotiations are conducted about an armistice.
+46. The federation consists out of many states.
+47. The radiostation transmits last/latest communications about weather.
+48. The radiostation transmits last/latest political bulletins.
+49. Vladimir gets (a) large salary.
+50. Vladimir appears for work late in the morning.
+51. Roads are constructed from concrete
+52. A commander gets information over a telegraph.
+------------------------------------
+Other examples of translations – without original Russian – by the system were quoted in the ALPAC report 1966, p.23:
+	“The reader will find it instructive to compare the samples above [from Bunker-Ramo, Computer Concepts, FTD and Euratom] with the results obtained on a simple, or selected, text 10 years earlier (the Georgetown IBM Experiment, January 7, 1954) in that the earlier samples are more readable than the later ones.
+	The quality of crude oil is determined by calory content.
+	The quality of saltpeter is determined by chemical methods.
+	TNT is produced from coal.
+	They obtain dynamite from nitroglycerine.
+	Ammonite is obtained from saltpeter.
+	Gasoline is prepared by chemical methods from crude oil.
+	They prepare ammonite.
+	Gasoline is produced by chemical methods from crude oil.
+	The price of crude oil is determined by the market.
+	Calory content determines the quality of crude oil.
+	TNT is prepared from coal.”
+The ALPAC report does not state when these translations were done. The sentences were not included in those listed by Garvin in 1967 [see above]. However, each of them would have been feasible with the rules and vocabulary entries he described.
+=========================================
+Comparisons with current systems
+The sentences translated by Babelfish (Systran) 19 April 2004:
+1. Tolite is prepared. 
+2. Tolite is prepared from coal. 
+3. Tolite is prepared from coal. 
+4. Soldier is prepared to the battle. 
+5.* Quality of coal is determined by caloricity. 
+6. Tolite is prepared from the bituminous coal. 
+7. They obtain gasoline from the oil. 
+8. Gasoline is obtained from the oil. 
+9. Ammonite is prepared from the saltpeter. 
+10. Ammonite is prepared from the saltpeter. 
+11. They work out alcohol potatoes. 
+12. Alcohol is worked out potatoes. 
+13. They work out starch potatoes. 
+14. Starch is worked out potatoes. 
+15. Tolite is prepared by chemical means from the bituminous coal.
+16. Ammonite is prepared by chemical means from the saltpeter. 
+17.* Starch is manufactured mechanically from the potatoes. 
+18. The price of potatoes is determined by market. 
+19.* The value of angle is determined by the ratio of arc length to a radius. 
+20. Caloricity determines the quality of oil. 
+21. Working increases the quality of oil. 
+22. Iron is obtained from the ore. 
+23. Copper is obtained from the ore. 
+24. Dynamite is prepared from the nitroglycerine with the admixture of inert material.
+25. Elevation is determined by leveling. 
+26. Angle of sighting is determined by optical measurement.
+27. The price of wheat is determined by market.
+28. The price of wheat is determined by demand. 
+29. The price of potatoes is determined by demand. 
+30. Roads are constructed from the stone.
+31. Troops are assembled by wedge. 
+32.* We transfer to thought by means of the speech. 
+33. They obtain iron from the ore. 
+34. They obtain copper from the ore. 
+35. Iron is obtained from the ore by chemical process. 
+36. Copper is obtained from the ore by chemical process. 
+37. Dynamite is prepared by chemical means from the nitroglycerine with the admixture of inert material.
+38. Houses are constructed from the brick. 
+39. Houses are constructed from the concrete.
+40. Military court sentenced sergeant to the deprivation of civil liberties. 
+41. Criminal law is the important division of legislation. 
+42. Science about the oxygen connections are the important division of chemistry.
+43. Vladimir appears to the work late in the morning. 
+44.* International understanding is important factor in resolution of political questions. 
+45. The truce negotiations are conducted. 
+46. Federation consists of many states. 
+47. Radio station transfers last weather reports. 
+48. Radio station transfers last political Proceedings. 
+49. Vladimir obtains large salary.
+50. Vladimir appear to the work late in the morning. 
+51. Roads are constructed from the concrete. 
+52. Commander obtains information on the telegraph. 
+The Sentences translated by Promt (2003 version)
+тол.
+2. Тол prepare from coal.
+3. Тол prepares from coal.
+4. The fighter prepares for fight.
+5. Quality of coal is defined(determined) by caloric content.
+6. Тол prepares from coal.
+7. Gasoline extract from oil.
+8. Gasoline is extracted from oil.
+9. Аммонит prepare from saltpeter.
+10. Аммонит prepares from saltpeter.
+11. Spirit develop from a potato.
+12. Spirit is developed from a potato.
+13. Starch develop from a potato.
+14. Starch is developed from a potato.
+15. Тол prepares in the chemical way from coal.
+16. Аммонит prepares in the chemical way from saltpeter.
+17. Starch is developed by mechanical way from a potato.
+18. The price of a potato is defined(determined) by the market.
+19. The size of a corner is defined(determined) by the attitude(relation) of length of an arch to radius.
+20. Caloric content defines(determines) quality of oil.
+21. Processing raises quality of oil.
+22. Iron is extracted from ore.
+23. Copper is extracted from ore.
+24. Dynamite prepares from nitroglycerine with an impurity of an inert material.
+25. The eminence is defined(determined) by levelling.
+26. The corner of a place of the purpose is defined(determined) by optical measurement.
+27. The price of wheat is defined(determined) by the market.
+28. The price of wheat is defined(determined) by demand.
+29. The price of a potato is defined(determined) by demand.
+30. Are dear are under construction of a stone.
+31. Armies are under construction a wedge.
+32. We transfer ideas by means of speech.
+33. Iron extract from ore.
+34. Copper extract from ore.
+35. Iron is extracted from ore by chemical process.
+36. Copper is extracted from ore by chemical process.
+37. Dynamite prepares in the chemical way from nitroglycerine with an impurity of an inert material.
+38. Houses are under construction of a brick.
+39. Houses are under construction of concrete.
+40. The military court has sentenced sergeant to disfranchisement.
+41. The criminal law is the important department of the legislation.
+42. The science about oxygen connections is the important department of chemistry.
+43. Vladimir is for work late in the morning.
+44. The international understanding is the important factor in the decision of political questions.
+45. Are negotiated for an armistice.
+46. The federation will consist of many staffs(states).
+47. The radio station transfers last messages on weather.
+48. The radio station transfers last political news.
+49. Vladimir receives the big salary.
+50. Vladimir is for work late in the morning.
+51. Are dear are under construction of concrete.
+52. The commander receives data on telegraph.
+Translated by Systran Personal 5.0 (January 2005)
+1. Tolite is prepared.
+2. Tolite is prepared from coal.
+3. Tolite is prepared from coal.
+4. Soldier is prepared to the battle.
+5. The quality of coal is determined by caloricity.
+6. Tolite is prepared from the bituminous coal.
+7. They obtain gasoline from the oil.
+8. Gasoline is obtained from the oil.
+9. Ammonite is prepared from the saltpeter.
+10. Ammonite is prepared from the saltpeter.
+11. They work out alcohol potatoes.
+12. Alcohol is worked out potatoes.
+13. They work out starch potatoes.
+14. Starch is worked out potatoes.
+15. Tolite is prepared by chemical means from the bituminous coal.
+16. Ammonite is prepared by chemical means from the saltpeter.
+17. Starch is manufactured mechanically from the potatoes.
+18. The price of potatoes is determined by market.
+19. The value of angle is determined by the ratio of arc length to a radius.
+20. Caloricity determines the quality of oil.
+21. Working increases the quality of oil.
+22. Iron is obtained from the ore.
+23. Copper is obtained from the ore.
+24. Dynamite is prepared from the nitroglycerine with the admixture of inert material.
+25. Elevation is determined by leveling.
+26. Angle of sighting is determined by optical measurement.
+27. The price of wheat is determined by market.
+28. The price of wheat is determined by demand.
+29. The price of potatoes is determined by demand.
+30. Roads are built from the stone.
+31. The troops are assembled by wedge.
+32. We transfer to thought by means of the speech.
+33. They obtain iron from the ore.
+34. They obtain copper from the ore.
+35. Iron is obtained from the ore by chemical process.
+36. Copper is obtained from the ore by chemical process.
+37. Dynamite is prepared by chemical means from the nitroglycerine with the admixture of inert material.
+38. Houses are built from the brick.
+39. Houses are built from the concrete.
+40. Military court sentenced sergeant to the deprivation of civil liberties.
+41. Criminal law is the important division of legislation.
+42. The science about the oxygen connections is the important division of chemistry.
+43. Vladimir it appears to the work late in the morning.
+44. International understanding is important factor in resolution of political questions.
+45. The truce negotiations are conducted.
+46. Federation consists of many states.
+47. Radio station transfers last weather reports.
+48. Radio station transfers last political Proceedings.
+49. Vladimir is obtained large salary.
+50. Vladimir it appears to the work late in the morning.
+51. Roads are built from the concrete.
+52. Commander obtains information on the telegraph.

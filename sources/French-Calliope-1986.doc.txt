@@ -1,0 +1,94 @@
+French to English
+Experimental system (Calliope-Aero, GETA) in 1986
+Source
+Christian Boitet: ‘The French national MT project: technical organization and translation results of CALLIOPE-AERO’, Computers and Translation 1 (1986), 239-267.
+also in part: Christian Boitet: ‘Current machine translation systems developed with GETA’s methodology and software tools’, in: Translating and the computer 8: a profession on the move, ed. Catriona Picken. Proceedings of a conference... 13-14 November 1986, CBI Conference Centre, London (London: Aslib, 1987),  pp.114-132.
+A. Original French text
+- Enduire légèrement les joints et les pièces de liquide d’utilisation (AIR 3520b).
+- Placer des joints neufs dans leur gorge en utilisant l’outil de pose de joint et en prenant toutes les précautions nécessaire à leur montage correct.
+- Poser une nouvelle rondelle frein (2) sur le corps (6).
+- Placer la valve (4) et le ressort (3), puis visser l’embout (1).
+Couple de serrage: 4 mdan.
+- Freiner l’ensemble à l’aide de l’outil de freinage, par déformation de la rondelle frein dans les encoches prévues à cet effet.
+- Vérifier l’étanchéité du raccord sous une pression de 50 bars pendant deux minutes (voir paragraphe 22.2).
+24 – Réparations.
+Intervenir seulement sur le remplacement des joints.
+Le remplacement du joint (7) s’effectue sans démonter le raccord; pour cette opération, procéder comme suit:
+- agir sur la valve pour la faire reculer,
+- sortir le joint défectueux en employant un outil de dépose de joint (fil d’inox adapté à ce besoin) et rebuter le joint défectueux,
+- enduire légèrement le joint neuf de liquide d’utilisation (AIR 352b) et le remettre soigneusement dans sa gorge,
+- le remplacement du joint (5) nécessite le démontage du raccord auto-obturable (voir paragraphe 22).
+GRAISSAGE
+Consignes généralités.
+Généralités.
+N’utiliser que des lubrifiants contenus dans leur emballage d’origine et portant la spécification, la désignation et le grade sur la boîte.
+Nettoyer et sécher les pompes avant leur remplissage.
+Le remplissage des pompes s’effectue dans un local fermé, très propre, à l’abri de toute possibilité d’introduction de poussière dans la graisse.
+UTILISATION DES POMPES
+Il est conseillé de grouper les opérations de graissage et de prévoir approximativement la quantité de graisse nécessaire. Ceci permet de choisir le modèle de pompe à utiliser et de remplir en une seule manipulation une ou plusieurs pompes.
+GRAISSAGE DES ARTICULATIONS MUNIES DE GRAISSEURS. Généralités.
+Nettoyer soigneusement le graisseur et ses abords avec un chiffon sec et propre.
+Vérifier la présence de la bille et de son ressort sur le graisseur. Éjecter un peu de graisse afin de nettoyer l’agrafe qui pourrait être polluée.
+Faire pénétrer la graisse en force dans les graisseurs jusqu’à ce que la vieille graisse soit éjectée. (sauf indication contraire.)
+NOTA: lorsque cela est possible, mettre en mouvement les pièces mobiles afain d’assurer un graissage parfait.
+Essuyer la graisse en excèdent pour éviter les accumulations des saletés.
+Refaire éventuellement l’identification du graisseur par peinture rouge.
+B. Unedited output from Calliope-Aero, 1986
+-Slightly coat the joints and the parts with operating fluid (AIR 3520b).
+- Put new joints into their grooves by using the joint installation tool and by taking all the precautions necessary for their correct assembly.
+- Put [AMBIGU: install] a new stop washer (2) onto body (6).
+- Position valve (4) and spring (3), then screw nozzle (1).
+Torque load: 4 (??)
+- Brake the assembly using the braking tool, by distortion of the stop washer in the provided notches.
+- Check the leaktightness of the coupling under a pressure of 50 bars for two minutes (see paragraph 22.2).
+24 – repairs
+Only intervene in the replacement of the joints.
+The replacement of joint (7) is caried out without dismantling the coupling;
+For this operation, proceed as follows:
+- act on the valve to make it move back,
+- extract [AMBIGU: bring out] the faulty joint by using a joint removal tool (wire of stainless steel adapted to this need) and discard the faulty joint,
+- slightly coat the new joint with operating fluid (AIR 3520b) and carefully put it again into its groove,
+- the replacement of joint (5) requires dismantling of the self-sealing coupling (see paragraph 22).
+GREASING
+General instructions.
+General.
+Use only lubricants contained in their origin wrapping and carr the specification, the designation and the grade on the box. 
+Clean and dry the pumps before their filling.
+The pump filling is carried out in a, very clean closed room [AMBIGU: premises], away from any introduction possibility [AMBIGU: opportunity] of dust into grease.
+PUMP USE
+It is advisable to group the greasing operations and anticipate [AMBIGU: allow] the necessary quantity of grease approximately. This makes it possible to choose the model of pump to be used and to fill in only one manipulation [AMBIGU: handling] one or several pumps.
+GREASING OF THE ARTICULATIONS EQUIPPED WITH LUBRICATORS. General.
+Carefully clean the lubricator and its surroundings with a dry and clean cloth. Check the presence of the ball bearing and of sound spring on the lubricator. Eject a little grease so as to clean the fastener which could be polluted.
+Make the grease penetrate by force into the lubricants until the old grease is ejected. (unless otherwise stated).
+NOTE: when that is possible, activate the mobile parts so as to carry out a perfect greasing.
+Wipe the excess grease to avoid accumulating the dirt.
+If necessary repeat the identification of the lubricator red paint.
+C. Unedited translation of text A by: Systran Personal 4.0, 2002
+- To slightly coat the joints and the parts of liquid of use (AIR 3520b). 
+- To place new joints in their throat by using the tool for installation of joint and by taking all the precautions necessary to their correct assembly. 
+- To pose a new lock washer (2) on the body (6). 
+- To place the valve (4) and the spring (3), then to screw the end (1). 
+Tightening torque: 4 mdan. 
+- To slow down the whole using the tool for braking, by deformation of the lock washer in the notches envisaged for this purpose. 
+- To check the sealing of the connection under a pressure of 50 bars during two minutes (see paragraph 22.2).
+24 - Repairs. 
+To intervene only on the replacement of the joints. 
+The replacement of the joint (7) is carried out without dismounting the connection; for this operation, to proceed as follows: 
+- to operate the valve to make it move back, 
+- to leave the leaking joint by using a tool demounting of joint (stainless wire adapted to this need) and to reject the leaking joint, 
+- to slightly coat the new joint of liquid of use (AIR 352b) and to carefully give it in its throat, 
+- the replacement of the joint (5) requires the disassembling of the car-sealable connection (see paragraph 22).
+GREASING
+Instructions general information. 
+General. 
+To use only lubricants contained in their packing of origin and carrying the specification, designation and the rank on the box. 
+To clean and dry the pumps before their filling. 
+The filling of the pumps is carried out in a closed room, very clean, safe from any possibility of introduction of dust into grease. 
+USE OF the PUMPS
+ It is advised to group the operations of greasing and to envisage roughly the quantity of grease necessary. This makes it possible to choose the model of pump to be used and to fill in only one handling one or more pumps
+GREASING OF THE PROVIDED ARTICULATIONS GREASING DEVICES. General. 
+To carefully clean the greasing device and its accesses with a dry and clean rag. To check the presence of the ball and its spring on the greasing device. To eject a little grease in order to clean the staples which could be polluted.
+To make penetrate grease forces some in the greasing devices until old grease is ejected (unless otherwise specified.) 
+FOOT-NOTE: when that is possible, to put moving the moving parts afain to ensure a perfect greasing. 
+To wipe grease exceed some to avoid accumulations of dirtinesses. 
+To if required remake the identification of the greasing device by red painting.

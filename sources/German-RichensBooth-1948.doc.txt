@@ -1,0 +1,12 @@
+German to English
+Experimental system (Richens-Booth, 1948)
+Source
+Richens, R.H. and Booth, A.D. (1955): ‘Some methods of mechanized translation’. In: Locke, W.N. and Booth, A.D. (eds.) Machine translation of languages: fourteen essays. (Cambridge, Mass.: The Technology Press of the Massachusetts Institute of Technology), 24-46.
+A. Original German text
+Wenn in einem grösseren gebiet zwei Formen nebeneinander leben, ohne sich zu vermischen, so gehören sie verschiedenen Formenkreisen an.
+[input as:]
+Wenn in ein*em grösser*en gebiet zwei Form*en neben*einander leb*en, ohne sich zu vermisch*en, so gehör*en sie verschieden*en Form*en*kreis*en an.
+B. Unedited output from Richens-Booth system
+if in a/one d large (more) area two form m beside one another live z without self to/too mix z, so belong/hear p z z different m form m circle m at.
+[interpreted as:]
+If, in a largish area, two forms coexist without intermixture, they will belong to different form-cycles.

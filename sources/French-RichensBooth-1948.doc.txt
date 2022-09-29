@@ -1,0 +1,16 @@
+French to English
+Experimental system (Richens-Booth, 1948)
+Source
+Richens, R.H. and Booth, A.D. (1955): ‘Some methods of mechanized translation’. In: Locke, W.N. and Booth, A.D. (eds.) Machine translation of languages: fourteen essays. (Cambridge, Mass.: The Technology Press of the Massachusetts Institute of Technology), 24-46.
+A. Original French text
+Il n’est pas étonnant de constater que les hormones de croissance agissent sur certaines espèces, alors qu’elles sont inopérantes sur d’autres, si l’on songe à la grande spécificité de ces substances.
+	[input as:]
+Il n’est pas étonn*ant de constat*er que les hormone*s de croissance ag*issent sur certain*es espèce*s, alors qu’elles sont in*opér*antes sur d’autre*s, si l’on song*e à la grand*e spécificité de ces substance*s.
+B. Unedited output from Richens-Booth system
+ v is not/step astonish v of establish v that/which? v hormone m of growth act m on certain m species m, then that/which? v not operate m on other m if v one dream/consider z to v great v specificity of those substance m.
+[interpreted as]
+It is not surprising to learn that growth hormones may act on certain species while having no effect on others, when one remembers the narrow specificity of these substances.
+C (a). Unedited output from Systran Personal 4.0, 2002
+It is not astonishing to note that the growth hormones act on certain species, whereas they are inoperative on others, if one thinks of the great specificity of these substances.
+C (b). Unedited output from InterTran [2003]: 
+He isn't amazing about ascertain as the hormones about growth agissent about various cash , as qu'elles are inopérantes about else , if the ounce dream at the large specificity of these matter.

@@ -1,0 +1,86 @@
+French to English
+Operational system (Systran)
+at Aérospatiale, in 1986
+Two example texts
+Source:
+Lavroff, Oleg: ‘Avis d’un utilisateur du système Systran’ Ecrages 17, printemps 1987, pp.103-130
+=================
+Example 1
+A. Original French text
+Extrait d'un rapport de congrès
+Pour préparer des matériaux tubulaires dont la surface interne présenterait les différentes caractéristiques chimiques et biologiques des résines "heparin-like" dérivées du polystyrène, les mêmes groupements fonctionnels sont fixés sur les noyaux benzéniques du polystyrène préalablement greffé par voie radiochimique sur la surface interne de tuyaux de polyethylène. Les taux de substitution du polystyrène sont déterminés par dosage acidimétrique des différentes fonctions fixées. Différentes procédures expérimentales ont été mises au point pour mettre en évidence l'activité antithrombique des surfaces modifiées. Les résultats montrent que cette activité résulte de la catalyse de la réaction d'inhibition de la thrombine par 1'antithrombine.
+1 - INTRODUCTION
+Des travaux antérieurs ont montré que la fixation des groupes fonctionnels sulfonate et sulfamide d'acide aspartique sur du polystyrène réticulé permet d'obtenir des matériaux insolubles anticoagulants (1). L'activité antithrombique de ces résines, due à leur capacité a catalyser la réaction thrombine-antithrombine (2) a été mise en évidence dans des conditions statiques. L'une des applications de ces résultats, présentée ici, consiste à mettre au point un matériau tubulaire possédant les mêmes caractéristiques chimiques et présentant la même activité catalytique sur la réaction thrombine-antithrombine (T-AT), dans des conditions de circulation se rapprochant des conditions physiologiques.
+2 - MATERIELS ET METHODES
+Les tubes "heparin-like" ont été préparés en plusieurs étapes :
+ -- greffage du poly(styrène) sur la surface interne du tube de poly(éthylène) (médical grade; 2,2,9 x 4,0 mm) par voie radiochimique (rayons du Cobalt 60; 2 mg/cm2).
+ -- fonctionnaiisation du poly(styrène); le traitement chimique des tubes s'effectue lui-même en plusieurs étapes : chlorosulfonation suivie ou non de la fixation de l'ester diméthylique de l'acide aspartique puis hydrolyse basique dans tous les cas. La circulation entretenue pendant toute la durée du traitement permet de traiter de façon homogène des longueurs importantes de tuyaux (jusqu'à 40 mètres). L'ensemble de ce traitement chimique a été décrit antérieurement (3). La caractérisation chimique des groupements fixés sur la surface a été faite par titration acidimétrique : des taux de substitution totale de l'ordre de 20% et de 5% en acide aspartique sont suffisants pour conférer au matériau, les propriétés recherchées ; des taux plus importants peuvent-être obtenus en utilisant d'autres conditions de traitement (3) mais n'ont aucun effet positif sur l'activité antithrombique. Pour étudier le mécanisme d'inhibition de la thrombine par l'antlthrombine sur la surface interne des tuyaux traités, différentes procédures expérimentales ont été utilisées. Elles concernent l'adsorption des protéines appliquées dans le mécanisme (phase initiale essentielle du processus), la réaction d'inhibition de la thrombine sur la surface par formation du complexe thrombine-antithrombine (TAT) Inactif, la désorption du complexe TAT présent sur la surface par l'une ou l'autre des deux protéines; les différentes étapes des protocoles expérimentaux sont présentées dans les Tableaux 1 et 4.
+Tableau 1 - Test 1 Adsorption de la thrombine
+La réaction d'adsorption de la thrombine est suivie en fonction du temps jusqu'à saturation de la surface par la protéase (l)-Tableau 1 (ce qui se traduit par une concentration stable de thrombine en solution). Lorsque la saturation est atteinte la solution de thrombine est remplacée par une solution de polycation (polybrène ou polylysine) ce qui a pour effet de désorber quantitativement la protéase (2)-Tableau 1. La quantité de thrombine adborbée à saturation est déterminée selon deux méthodes -soit par différence entre la quantité de thrombine initialement introduite et la quantité de thrombine restante lorsque la concentration de la protéase dans la solution n'évolue plus -soit par mesure de la quantité de thrombine active désorbée par le polycation.
+L'adsorption de 1'antithrombine sur la surface est mise en évidence de façon indirecte; les différentes étapes du protocole expérimental utilisé sont reportées dans le Tableau 2. Parallèlement, une autre équipe de recherche a étudié 1'adsorption de 1'antithrombine sur tubes "heparin-like" par une méthode utilisant un radiotracsur (4).
+Tableau 2 - Test 2
+Adsorption de 1'antithrombine et réaction avec la thrombine circulante.
+Après 30 minutes d'incubation de 1'antithrombine (1) Tableau 2- le tuyau est vidé, rincé puis rempli avec une solution de- thrombine Ttot (2) Tableau 2 dont on suit l'évolution de la concentration en fonction du temps; lorsque celle-ci atteint une valeur limite (TL), la solution de thrombine est remplacée par une solution de polycation qui a pour effet de désorber la thrombine restante sur la surface (TR) en fin d'expérience. Ce test qui permet de calculer la quantité de thrombine inhibée par 1'antithrombine adsorbée sur la surface permet également d'évaluer la quantité d'antiprotéase adsorbée puisque une unité d'antithrombine est capable d'inhiber de l'ordre de 250 unités de thrombine. L'inhibition de la thrombine par 1'antithrombine adsorbée sur la surface résulte de la formation d'un complexe TAT inactif. La même inhibition est obtenue en utilisant une autre procédure expérimentale présentée Tableau 3 les deux procédures différant uniquement par l'ordre d'introduction des protéines.
+B. Unedited output from Systran, 1986
+Extrait d'un rapport de congrès
+To prepare tubular materials Internal surface of which would present the various chemical and biological characteristics of "heparin-like" resins derivative of polystyrene, the same functional groupings are fixed on the benzene cores of the polystyrene grafted previously by radiochemical way on the internal surface of the pipe. The substitution rates of polystyrene are determined by acidimetric proportioning of the various fixed functions. Various experimental procedures were developed to demonstrate antithrombic activity of the modified surfaces. The results show that this activity results from catalysis of the thrombin inhibition reaction by antithrombin.
+1 - INTRODUCTION
+Previous work showed that the fixing of the aspartic acid sulphonate and sulphamide functional groups on reticulated polystyrene makes it possible to obtain anticoagulant insoluble materials (1). Antithrombic activity of these resins, due to their capacity to catalyse thrombin-antithrombin reaction (2) was demonstrated under static conditions. One of the applications of these results, presented hereby, consists in developing a tubular material which has the same chemical characteristics and presenting the same catalytic activity on thrombin-antithrombin reaction (T-AT), under conditions of circulation approaching physiological conditions.
+2 - EQUIPMENT AND METHODS
+The "heparin-like11 tubes were prepared in several stages:
+-- grafting of poly(styr2ene) on the internal surface of the tube of poly(3ethy!2ene) (medical grade; 2.2.9 X 4.0 mm) per radiochemical channel (rays of cobalt 60; 2 mg / cm2).
+-- fonctionnalisation of poly(styr2ene); the chemical treatment of the tubes is carried out itself 1n several stages: chlorosulfonation followed or not by the fixing of the dimethyl ester of the aspartic acid then hydrolizes basic in all the cases. The circulation maintained throughout all the treatment makes it possible to treat a homogeneous way of the important pipe lengths (up to 40 metres). The whole of this chemical treatment was described previously (3). The chemical characterization of the groupings fixed on surface was made by acidimetric titration: rates of total substitution about 20% and 5% in aspartic acid are sufficient to confer on the material, the required properties; more important rates be able-to be obtained while using of other conditions of treatment (3) but have no positive effect on the antithrombique activity. To study the inhibition mechanism of thrombin by the antithrombine on the internal surface of the treated pipes, various experimental procedures were used. They concern the adsorption of the proteins applied in the mechanism (essential initial phase of the process), the inhibition reaction of thrombin to surface by formation of the complex thrombin-antithrombin (TAT) inactive, the desorption of complex TAT present on surface by one or other of both proteins; the various stages of experimental protocols are presented in tables L and 4.
+Table 1 - test 1
+Adsorption of thrombin
+The adsorption reaction of thrombin is followed according to time until saturation of surface by the protease (D-table 1 (what results in a stable thrombin concentration in solution). When saturation is reached the thrombin solution is replaced by a solution of polycation (polybrene or polylysine) what implicates desorbing the protease (2)-table quantitatively 1, The quantity of thrombin adborbSee with saturation is determined according to two methods -either by difference between the quantity of initially introduced thrombin and quantity of remaining thrombin when the concentration of the protease in the solution no longer evolves - or per measurement of the quantity of active thrombin desorbed by the polycation.
+The adsorption of antithrombine on surface is put in evidence in an indirect way; the various stages of experimental protocol used are deferred in table 2. In parallel, another team of research studied the adsorption of antithrombine on tubes "heparin-like" by a method using a radiotracor (4).
+Table 2 - test 2
+Adsorption of antithrombine and reaction with circulating thrombin.
+After 30 minutes of incubation of antithrombine (1) table 2- the pipe is emptied, rinsed then filled with a solution of thrombin Ttot (2) table 2 of which one follows the evolution of the concentration according to time; when it reached a limit value (TL)t the thrombin solution is replaced by a solution of polycation which implicates desorbing remaining thrombin on surface (TR) at the end of the experiment. This test which makes it possible to calculate the quantity of thrombin inhibited by the antithrombine adsorbed on surface also makes it possible to evaluate the adsorbed quantity of antiprotSease since a unit of antithrombine is able to inhibit about 250 units of thrombin. The inhibition of thrombin by the antithrombine adsorbed on surface results from the formation of an inactive TAT complex. The same inhibition is obtained by using another presented experimental procedure Tableau 3 the two procedures only differing by the introduction order of the proteins.
+===========================================================
+Example 2
+A. Original French text
+Extrait d'une étude pays sur le Cameroun
+Ressources agricoles : 33 % du PIB
+Le Cameroun est encore un pays a vocation agricole avec des terres riches et des produits très diversifiés qui ont permis d'atteindre un haut niveau d'autosuffisance alimentaire.
+L'agriculture occupe 80 % de la population active et son développement reste prioritaire dans le Sème plan quinquennal.
+1) Cultures
+Manioc : 643 000 tonnes
+Millet, sorgho, riz paddy. 1'igname.
+2) les 2 principales cultures du pays restent commerciales :
+Cacao : 120 000 tonnes ( + 11 % en 1985) 5ème rang mondial et 9 % des revenus à l'exportation.
+Café : 118 000 tonnes ( + 150 % en 1985) l0ème rang mondial principalement de qualité Robusta.
+Forte progression due aux conditions climatiques favorables.
+Bananes : 77 000 tonnes
+secteur en crise suite à la longue saison sèche et problèmes relatifs au transport maritime.
+Coton, graine : environ 100 000 tonnes Nombreux projets de développement.
+Caoutchouc, sucre, palmier à huile, thé récemment plantés par des grandes sociétés d'état soutenues par les institutions financières internationales fondant de grands espoirs pour ces nouveaux produits.
+Elevage
+Le cheptel bovin (zébus et boeufs) croit de 2 à 3 % par an D'importants projets sont en cours de réalisation comme le plan viande.
+Ressources naturelles 
+Pétrole :L'exploitation qui a débuté en 1977/78 représente environ 65 % des recettes d'exportations et 10 % du PNB.
+La production s'est élevée en 1985 à 8,5 millions de tonnes mais devrait décliner à partir de 1986 (7,2 millions de tonnes) pour s'établir à 6 millions de tonnes en 1990. Les recettes d'exportation tirées du pétrole devraient décliner sensiblement : dans l'hypothèse du baril à 20 $, les recettes tomberaient de 1,1 milliard de $ en 85/86 à 700 millions de $ en
+89/90.
+Les réserves sont évaluées à 75 millions de tonnes ce qui laisse peu d'années au Cameroun pour profiter de cette manne. 85% du pétrole est exporté aux USA viennent ensuite les Pays-Bas et la France.
+B. Unedited output from Systran, 1986
+Extrait d'une etude pays sur le Cameroun
+Agricultural resources: 33 % of the GDP
+Cameroun still is a country with agricultural vocation with rich grounds and very diversified products which allowed to reach a high food self-sufficiency level.
+Agriculture occupies 80 % of the active population and its development remains priority in the 5th five-year plan.
+1) Cultures
+Manioc: 643 000 tonnes
+Millet, sorghum, paddy rices, yam.
+2) the 2 main crops of the country remain commercial:
+Cocoa: 120 000 tonnes (+ 11 % in 1985) 5th world row and 9 % of the incomes to export.
+Caf5e: 118 000 tonnes (+ 150 % in 1985) 10th world row mainly of Robusta quality.
+Strong progression due to favourable weather.
+Bananas: 77 000 tonnes
+sector in crisis further to the long dry season and problems relating to the maritime transport.
+Cotton, seed: approximately 100 000 tonnes
+Many development projects.
+Rubber, sugar, palm tree have oil, th5th recemment planted by large state companies supported by the international financial institutions flux of great hopes for these new products.
+Breeding
+The cattle population (zebus and cattle) believes a year of 2 in 3 % of important projects is under development like the meat plan
+Natural resources Pëtrole:
+The exploitation which began in 1977/78 represents approximately 65 % of the export earnings and 10 % of the GNP
+The production was raised in 1985 to 8.5 million tonnes but should decline as from 1986 (7.2 million tonnes) to be established at 6 million tonnes in 1990. Export earnings the drawn from oil should decline appreciably: on the assumption of the barrel with 20 $, income would fall from 1.1 thousand million $ in 85/86 to 700 million $ in 89/90. The reserves are evaluated at 75 million tonnes what leave few years in Cameroun to benefit from this basket. 85 % of oil are exported in the USA come then the Netherlands and France.
